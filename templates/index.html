@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Earnings Transcript Sentiment Analysis</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <h1>Earnings Transcript Sentiment Analysis</h1>
+    <form method="POST" action="{{ url_for('sentiment') }}">
+      <label for="transcript">Paste earnings transcript text below:</label>
+      <br>
+      <textarea id="transcript" name="transcript" rows="10" cols="80"></textarea>
+      <br>
+      <input type="submit" value="Analyze Sentiment">
+      <button type="button" onclick="loadSampleTranscript()">Sample Transcript</button>
+    </form>
+    <p>Utilizes the VADER (Valence Aware Dictionary and sEntiment Reasoner) model.<br> 
+        See <a href="https://www.nltk.org/api/nltk.sentiment.vader.html">NLTK Python library</a> for more details.</p>
+    <script>
+      function loadSampleTranscript() {
+        // Send an AJAX request to load the sample transcript from the server
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+          if (this.readyState == 4 && this.status == 200) {
+            document.getElementById("transcript").value = this.responseText;
+          }
+        };
+        xhttp.open("GET", "{{ url_for('sample_transcript') }}", true);
+        xhttp.send();
+      }
+    </script>
+  </body>
+</html>

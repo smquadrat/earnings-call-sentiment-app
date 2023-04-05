@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: orange;
+    font-family: Arial, sans-serif;
+  }
+  
+input[type="text"],
+textarea {
+background-color: #333;
+border: none;
+color: white;
+font-family: Arial, sans-serif;
+}
+
+input[type="submit"] {
+background-color: orange;
+color: black;
+font-family: Arial, sans-serif;
+}
+
+.positive-sentiment {
+color: green;
+font-family: Arial, sans-serif;
+}
+
+.negative-sentiment {
+color: red;
+font-family: Arial, sans-serif;
+}

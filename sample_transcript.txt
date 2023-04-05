@@ -1,0 +1,350 @@
+Block (SQ) Q4 2022 Earnings Call Transcript
+
+Operator
+
+Good day, ladies and gentlemen, and welcome to the Block fourth quarter 2022 earnings conference call. I would now like to turn the call over to your host, Nikhil Dixit, head of investor relations. Please go ahead. 
+
+Nikhil Dixit -- Head of Investor Relations
+
+Hi, everyone. Thanks for joining our fourth quarter 2022 earnings call. We have Jack and Amrita with us today. We will begin this call with some short remarks before opening the call directly to your questions.
+
+During Q&A, we will take questions from our customers in addition to questions from conference call participants. We would also like to remind everyone that we will be making forward-looking statements on this call. All statements, other than statements of historical fact, could be deemed to be forward-looking. These forward-looking statements include discussions of our long-term targets and goals which are subject to risks and uncertainties, and we may decide to shift our priorities or move away from these targets and goals at any time.
+
+Actual results could differ materially from those contemplated by our forward-looking statements. Reported results should not be considered as an indication of future performance. Please take a look at our filings with the SEC for a discussion of the factors that could cause our results to differ. Also, note that the forward-looking statements on this call are based on information available to us as of today's date.
+
+We disclaim any obligation to update any forward-looking statements, except as required by law. During this call, we will provide preliminary estimates of gross profit growth performance for the month of January and February. These represent our current estimates for January and February performance as we have not yet finalized our financial statements for the months of January and February, and our monthly results are not subject to interim review by our auditors. As a result, actual January and February results may differ from these estimates.
+
+Moreover, this financial information has been prepared solely on the basis of currently available information by, and is the responsibility of, management. This preliminary financial information has not been reviewed or audited by our independent public accounting firm. This preliminary financial information is not a comprehensive statement of our financial results for January and February or the first quarter. Also, we will discuss certain non-GAAP financial measures during this call.
+
+Reconciliations to the most directly comparable GAAP financial measures are provided in the shareholder letter and Investor Day materials on our Investor Relations website. These non-GAAP measures are not intended to be a substitute for our GAAP results. Finally, this call in its entirety is being audio webcast on our Investor Relations website. An audio replay of this call and the transcript for Jack and Amrita's opening remarks will be available on our website shortly.
+
+With that, I would like to turn it over to Jack. 
+
+Jack Dorsey -- Chief Executive Officer and Chairman
+
+Thank you all for joining us. During our last earnings call, we committed to sharing our investment framework. We'll spend the majority of our interim remarks on that instead of a review of our last quarter, which you'll find in our shareholder letter we sent out about an hour ago. There are three principles guiding our investment framework.
+
+Number one, ensure our investments are focused on customer retention and growth; number two, account for ongoing cost of the business, including stock-based compensation; and number three, utilize industry-standard conventions that are simple to communicate and to understand. Using these principles, our investment framework can be articulated in a single sentence. Block, in each of our ecosystems, must show a believable path to gross profit retention of over 100% and Rule of 40 on adjusted operating income. This is an ambitious goal, especially at our scale, and one we aren't meeting today.
+
+We're sharing this today to provide full transparency into how we want to drive the business and how we want to be held accountable. In the coming quarters, we'll provide more details into our strategies and plans for how we're moving the company toward achieving this goal. I wanted to take a moment to share why we believe this is So, important before Amrita dives into where we are today and what it means for operating our business. Our ability to retain a customer over time tells us a lot.
+
+It says we found product market fit, we have the right set of services and features, we're providing the right customer support, we're able to efficiently cross-sell into more products, and we have the right pricing. In the simplest terms, it means that our customers find value in our offerings and want to stick with us. Historically, both Cash App and Square have delivered positive gross profit retention. We may not achieve this in every period due to macro shifts.
+
+For instance, we saw Square's retention dip in 2020 due to the pandemic before recovering the next year. But over the long term, we expect the average annual gross profit retention of our ecosystems to be above 100%. To complement retention, we'll continue to measure customer cohort economics, to assess each stage of the customer journey. We assess our efforts to efficiently attract new customers by looking at returns on investment, a factor of both growing customer lifetime value and appropriately aligning our customer acquisition costs.
+
+Together, the combination of efficient acquisition and retention leads to greater gross profit growth for our ecosystems. Turning now to the second component of our investment framework, which is Rule of 40. We want to further raise the bar on our growth rates and our efficiency. We believe measuring our ecosystems on growth plus margins is the best framework to enable this.
+
+A growth plus margin framework provides flexibility for products and businesses at different stages of maturity. It's a useful and universal formula for evaluating each of our ecosystems with different growth trends and margin profiles today and for those we might launch in the future. It also ensures accountability. When we increase our investments, this framework forces us to think critically about the expected returns.
+
+And if growth slows, it encourages us to adapt, to operate with more discipline, or to pursue different investments. It pushes us to think creatively using new technologies or distribution models to create efficiencies and do more with less. Historically, we have looked at gross profit growth plus adjusted EBITDA margins. In 2022, Block's gross profit growth plus adjusted EBITDA margin was 52% or 42% when excluding Afterpay, which provided a one-time benefit to growth last year.
+
+While adjusted EBITDA margin is one of the key profit disclosures we focused on in the past, we recognize it excludes certain expenses like stock-based compensation, which is a real meaningful ongoing cost to operating our business. It isn't a cash expense, but it's a real expense. So, we're going to include it in how we assess our investments and performance. And to do so, we are developing better signals around it.
+
+As a result, we're shifting our focus to an adjusted operating income margin. With this metric, profit margins will include certain noncash expenses like stock-based compensation and depreciation and amortization. With the Rule of 40, we are targeting the sum of our gross profit growth and adjusted operating income margins to be at or above 40% over the long term. This target applies to Block at the overall company level, as well as each of our ecosystems.
+
+By comparison, for 2022, Block's gross profit growth plus adjusted operating income margin was 33% or 23% excluding Afterpay. Finally, we want to be able to communicate this in a way that's easy to understand, using methods that have been widely accepted by the investment community. Gross profit retention and the Rule of 40 targets are both clear and balance each other in a way that aligns our customer interest with those of our investors. They provide a clear way for us to determine what's working and what's not working as we seek to serve more and more customers around the world.
+
+We believe this investment framework will ultimately enhance our ecosystem around the world in our ecosystem model by allowing each business to make holistic decisions around their teams and road maps in parallels. It ensures the quick decisions of one ecosystem will constrain the others. And this model will help us move quicker and be more dynamic with our investments to grow Block overall. And this framework has already informed some decisions for us.
+
+As you may have seen in our 10-K, we're consolidating our corporate teams, people, legal, and finance in a one organization that Amrita will lead as our chief operating officer. This will allow us to be far more focused and efficient as we work to achieve our goals. Amrita will continue to serve as our CFO as well. So, now, over to Amrita, our CFO.
+
+Amrita Ahuja -- Chief Financial Officer
+
+Thanks, Jack. I'll start with how we're executing against our investment framework before moving to our expectations for 2023 and recent trends. Let's start with gross profit retention. We are a customer-led company, and gross profit retention is an effective way to reflect this.
+
+In 2022, Cash App and Square experienced positive gross profit retention compared to 2021, which is in line with our long-term target that Jack outlined. We measure gross profit retention on a net basis, factoring in gross profit growth from existing customers as they increase engagement or adopt more products, net of any churn from customers who leave our ecosystem. It's a similar definition to the net revenue retention metric many other companies use but adapted to our main top-line metric, which is gross profit. We look at retention alongside broader cohort economics to both assess the health of the customer base and our ability to efficiently acquire new customers.
+
+In 2022, we experienced strong returns on acquisition spend, which gives us confidence in our ability to invest for long-term profitable growth. For Cash App, in 2022, we achieved an efficient cost of acquisition of $10 or less on average as we grew to 51 million monthly transacting actives in December, adding our largest annual cohort of customers on a gross profit basis. Our historical Cash App cohorts through 2020 have achieved ROIs of six times or greater over three years, while our most recent annual cohorts in 2021 and 2022 are at or pacing at an estimated payback of less than one year. For Square, each of our annual cohorts onboarded through 2020 are at or pacing at an estimated ROI of three times or greater over four years with our 2021 and 2022 cohorts pacing at an estimated payback of six quarters or less.
+
+There are periods over the past year where expected paybacks on our 2022 Square cohort stretched beyond our six-quarter target, primarily because of increased spend in our international markets and experimental areas. We then pulled back on these areas and are now seeing paybacks trend in line again with our targets. In 2023, we're focused on refining Square's go-to-market approach and strengthening our sales and marketing motion. Taken together, we believe these fundamentals of positive retention, efficient acquisition, and strong returns on acquisition spend drive sustainable business models.
+
+Moving to our long-term goal of Rule of 40. We expect our path to achieving this 40% growth plus adjusted operating income margin benchmark will be driven by a few key areas of opportunity. From a growth perspective, we're just getting started. We have less than 5% share of a nearly $200 billion gross profit opportunity across our addressable markets, with much of the landscape sitting on legacy infrastructure.
+
+We'll continue to invest with discipline to unlock growth in each of our ecosystems. For Square and Cash App, this includes launching new products for our customers, expanding into new customer segments, and refining our go-to-market approach across our global audiences. For our emerging businesses, our principles are the same, though at an earlier stage. We're constraining investment for these businesses to less than 3% of operating expenses in 2023 in aggregate, and we'll look for these ecosystems to show a path to achieving and sustaining Rule of 40.
+
+From a margin perspective, key opportunities include finding greater efficiencies and share-based compensation and our overhead expenses. We intend on slowing our pace of hiring across the company in 2023. Within our overhead expenses, we plan to drive leverage across our software and data consumption, real estate footprint, professional fees, and other discretionary areas. Within our reporting disclosures, we want to bring more transparency to our performance against these targets and intend on introducing new disclosures around profitability on an adjusted operating income basis and sharing more about segment-level profitability for Square and Cash App over time.
+
+Our priority remains driving long-term profitable growth at scale, and we believe this balance of compounding growth and margins will help us achieve this. Now let's shift gears to look at our plans for 2023. Over the past several years, we've significantly grown our business and our expense base. We're focused on operating with efficiency in 2023 and expect to slow our pace of expense growth meaningfully compared to prior years.
+
+We expect to deliver approximately $1.3 billion in adjusted EBITDA in 2023 for a growth of more than 30% and at least 1 point of margin expansion year over year. On an adjusted operating income basis, we are targeting a loss of approximately $150 million for 2023 and expect our adjusted operating income margin to modestly improve year over year. This incorporates the run rate of trends we've observed in our business up until earnings and our current estimates for performance through February. In 2023, we expect Cash App to expand its margins on a year-over-year basis, while we expect Square's margins to be relatively consistent year over year.
+
+While this is our base case entering the year, we recognize that we are in an uncertain macro environment. Amidst this uncertainty, we intend to hold to our stated profit targets for 2023. If growth slows, we'll exercise discipline and look for cost initiatives to pull back within our planned expense base. As we shared on our last earnings call, we are moderating spend in our two biggest discretionary areas.
+
+First, hiring. Headcount makes up the largest driver of our expense base. In 2023, we expect to increase our headcount by 10% compared to the prior-year period, a significant change compared to 46% growth in 2022. However, given the pace of hiring last year, we expect overall personnel expenses to increase in the mid-20% range year over year, with greater leverage on headcount costs expected in the back half of 2023 and into 2024.
+
+Second, sales and marketing. We expect overall sales and marketing growth to be 5% to 10% year over year in 2023, moderating compared to approximately 25% in the prior-year period. Breaking this line item down, we expect variable Cash App expenses, including peer-to-peer costs and Cash App Card issuance costs to grow faster. And the remaining portion of our sales and marketing expenses across the business to be relatively consistent with the prior year as we drive efficiency on acquisition spend.
+
+Consistent with our remarks last quarter, we'll continue investing in channels with more proven ROI and intend on pulling back in other go-to-market areas. As we shared last quarter, about one-third of our overall non-GAAP operating expense base is made up of variable expenses, which have historically grown more in line with overall gross profit. These not only include peer-to-peer costs and Cash App Card issuance costs in sales and marketing, but also transaction and loan losses and expenses related to data and our platform infrastructure. Next, an update on recent trends and some highlights from the fourth quarter.
+
+For the month of January and February, we estimate overall company gross profit growth to be approximately 33% year over year on a reported basis, and we expect growth for the full first quarter to be a few points below this. As a reminder, we are now lapping the acquisition of Afterpay, which closed on January 31, 2022. And as a result, our reported growth rate for January should be greater than that of February and March. If we look at our performance on a combined company basis, which would include a $51 million contribution from our BNPL platform to January 2022 results, we see stable to improving trends.
+
+In particular, we see an improvement in January and February gross profit growth compared to the fourth quarter of 2022. On a combined company basis, we estimate overall company gross profit growth in January and February of approximately 25% year over year, an improvement from 21% in the fourth quarter. And we expect a combined company growth rate of 25% in January and February to be relatively stable for the full first quarter. We have continued to see the diversity of our ecosystem model provide resilience in this dynamic environment.
+
+Through January and February, Cash App saw continued strength with stable consumer trends. Square saw some moderation in growth rates for certain discretionary verticals with greater stability in other verticals. Let's get into some of these trends by ecosystem. As a reminder, gross profit includes a 50% allocation from our BNPL platform across each of Square and Cash App.
+
+For Cash App, we expect gross profit growth to be greater than 50% on a reported basis year over year for the months of January and February. In March, we expect gross profit growth to slow as we lap pricing changes made in the prior-year period. Cash App's early momentum this year has been a continuation of our strong fourth quarter. We continue to build out our banking offering by introducing savings, which has been one of our fastest-growing products on Cash App.
+
+Cash App Card achieved strong growth in monthly actives and spend per active and delivered more than $750 million in gross profit for the year, up 56% year over year and making up more than a quarter of overall Cash App gross profit. For Square, we expect gross profit growth to be approximately 15% on a reported basis year over year through January and February. Looking at recent volume trends, we saw a moderation in the GPV growth rates for discretionary verticals in the U.S. beginning in November, primarily for food and drink and retail.
+
+And we have seen these trends continue into the first quarter. Even with these shifts in macro trend line, the Square ecosystem, excluding PPP and our BNPL platform, had a gross profit growth rate of 17% year over year in the fourth quarter and is expected to grow 21% year over year in January and February. As a reminder, for the full first quarter of 2022, we recognized $51 million of nonrecurring PPP gross profit. And lastly, an update on our BNPL platform, which was also embedded in the figures I just noted for Cash App and Square.
+
+Through the months of January and February, we expect GMV growth of 19% year over year, an improvement compared to 14% growth in the fourth quarter. We have been encouraged by our ability to manage loss rates as losses on consumer receivables remained below 1% during the fourth quarter and improved on both a year-over-year and quarter-over-quarter basis behind consistent repayment trends. In the first quarter, loss rates typically see a seasonal increase compared to other quarters, though are expected to remain around 1% for the first quarter. To conclude, our potential is profound across our significant addressable opportunity, the ability to grow with our existing customers, and the longer-term path to grow new ecosystems.
+
+With all this opportunity, we have found that constraints are clarifying and can help us execute responsibly and creatively. With the components of our investment framework, we believe our teams will be able to continue driving product velocity while prioritizing agility, accountability, and long-term thinking paired with near-term feedback loops. With that, we'll open it up to your questions.
+
+Questions & Answers:
+
+Operator
+
+[Operator instructions] And in the interest of time, please limit yourself to one question. Your first question is from Tien-Tsin Huang with J.P. Morgan. Your line is open. 
+
+Tien-Tsin Huang -- JPMorgan Chase and Company -- Analyst
+
+Hi, thanks so much. I like the investment framework, especially the adjusted operating income margin. I think it will be well received. So, I wanted to ask on that, if you don't mind, just focusing on the margin and cost side which you have more control over.
+
+Can you just discuss or talk about the broader opportunity for operating leverage longer term? I know you gave some thoughts for '23. But just beyond that operating leverage overall or maybe even across the two ecosystems, how should we think about that? Thanks. 
+
+Amrita Ahuja -- Chief Financial Officer
+
+Thanks for the question, Tien-tsin. I'll start us off. Our investment framework here is -- around Rule of 40 is really about helping to build profitable long-term growth. And just as important as achieving Rule of 40 is just stating Rule of 40.
+
+So, we're looking to make investments in our business that can accrete returns both for our customers and ultimately for us and for our business model. From a leverage perspective, specifically to your question, there are a couple of key things that we're looking at that I'd point you to in terms of opportunities for us to find increased leverage across our fixed expense base. The first key areas that we're looking at are hiring and sales and marketing. As you heard on the call today, we're meaningfully slowing the pace of our hiring, growing about 10% in terms of headcount in 2023 compared to 46% growth in 2022.
+
+We're putting our teams to work across key important areas to build out our product ecosystem to address a sizable market opportunity ahead of us, $200 billion in gross profit opportunity, about 5% were penetrated in. But we're doing it in a way that enables them to be smarter with their work, more efficient, and effective in their work. Now in terms of how you'll see that roll through our P&L because we're run rating the hires that we made in 2022, we'd expect you to see more of the impact of that slower hiring and that pace of hiring in the back half of 2023 and into 2024. The second piece in terms of sales and marketing is around, again, orienting our spend toward areas that are more proven and that can impact our customer base and potential future customer segments that we can serve.
+
+So, expect to slow our pace of sales and marketing spend to 5% to 10% in 2023 relative to where we were at about 25% last year. And I think this is an area for us to find continued improvement on in refining our sales and marketing motion across each of Square and Cash App. From an overhead perspective, we're going to be looking across all of our corporate overhead expenses, from software and data utilization to real estate facilities to professional fees and a range of other discretionary areas. Now what that all means for 2023 is we expect to see 1 point or greater of margin expansion on an EBITDA basis, and we also expect to see margin expansion on an adjusted operating income basis.
+
+But again, if we're going to sustain, not just reach, but sustain Rule of 40 over the long term, we need to continue investing in our business. And that's where we see opportunities around reaching new customer segments through our go-to-market motions, continuing to take share in our TAM and building new products that enable greater TAM expansion and unlocking new audiences through our emerging initiatives, and we'll continue to invest with discipline across each of those areas to ultimately build growth opportunities, profitable growth opportunities over the long term.
+
+Tien-Tsin Huang -- JPMorgan Chase and Company -- Analyst
+
+Great.
+
+Operator
+
+Your next question is from the line of Timothy Chiodo with Credit Suisse. Your line is open. 
+
+Timothy Chiodo -- Credit Suisse -- Analyst
+
+Great. Thank you. I want to focus a little bit on the restaurant vertical given the competition there. So, you have the Square for Restaurant's vertical offering.
+
+At the May 2022 Investor Day, one of the big themes was the build-out of the vertical sales teams and the move upmarket to larger sellers. At the time, you talked about verticalizing the sales team, starting with the inbound teams and then building out further from there. Was hoping you could give an update on the progress there, the feet on the street effort, how many people we're talking about, and how the LTV to CAC look for that type of a go-to-market effort relative to the historical Square approach? 
+
+Amrita Ahuja -- Chief Financial Officer
+
+Hey, Tim, thanks for the question. So, let's talk about our go-to-market approach for the Square business. We have targets that we look to maintain across both payback and returns. And that encompasses the full set of our costs across sales and marketing across U.S., as well as international.
+
+And those blended rates, obviously being three times ROI over four years and a six-quarter payback. And we've seen over the past few years, the dynamic with that spend and our approach to the sales initiatives that you mentioned specifically throughout the year, and I think we'll continue to be dynamic here as we read our results in the environment in 2023. Specifically, to our sales efforts, we're in the early stages of building out a software-led-with-embedded-financial-services sales team. And this sales team not only has inbound capabilities but also outbound capabilities.
+
+We're building verticalization into our team. So, where in the past, we had a more generalized sales team, we've started to now verticalize across our three key areas of restaurants, retail, and services and expect this to benefit deal cycle times and win rates over time. From an outbound perspective, we're also enhancing our capabilities here around targeting specific verticals and seller sizes using better data and signals that enable our team to be able to reach those sellers at the right time with the right message. And we expect outbound sales to be a bigger contributor to sell our acquisition over time.
+
+Now this is a multiyear journey that we're on, on reorienting and building up the sales team, and we'll continue to iterate on our processes and tooling, but we are encouraged by the traction that we've had in building our upmarket success through mid-market sales. And what we're seeing is that our mid-market sellers have grown twice as fast in the fourth quarter than the total Square gross profit, excluding BNPL. Mid-market gross profit was up 16% year over year, excluding BNPL. So, these go-to-market initiatives are starting to resonate, and we'll be making more progress over time as we continue to reorient the sales team and pair that with our marketing messages.
+
+Timothy Chiodo -- Credit Suisse -- Analyst
+
+Thank you, Amrita.
+
+Operator
+
+Your next question comes from Cash App customer, Austin Watson. Your line is open.
+
+Unknown speaker
+
+Hi. Yes, my name is Austin. I use Cash App as my primary bank account. I get my paycheck direct deposited.
+
+I use my Cash App Card every day. And I love the app, but I still have a legacy bank account for no other reason than auto bill pay. And for me, personally, this problem could be solved if I had the ability to schedule recurring payments just to other Cash App customers. But yes, So, I guess the question is, are there any plans to enable scheduling recurring payments within the Cash App? 
+
+Jack Dorsey -- Chief Executive Officer and Chairman
+
+Austin, first of all, thank you for using Cash App and seeing us as your primary banking tool. That's exactly what -- it's exactly the relationship we want to have with all of our customers. We're seeing more and more of that. We're always going to be looking at things that people are trying to do with Cash App that we didn't build.
+
+Like we're -- we have a mindset of looking at the broadest patterns. And I'm sure we've seen desire for recurring payments to friends and to other Cash App customers across the board. And as we see more and more of that, we tend to prioritize it. But right now, we're really focused on making sure like just the basics are rock solid for every type of customer that we have, whether you're just starting with a bank account or a savings account or you've had one.
+
+And really, that's a question of looking at like the limits we placed onto Cash App and what we enable to make it super easy for people. So, we've been focused on savings accounts. We've been focused on unlimited free withdrawals at ATMs and paper money deposits. So, we don't have any immediate plans for recurring, but I'm sure it will be on the roadmap at some point in the future.
+
+But thank you so, much. 
+
+Operator
+
+Your next question is from the line of Darrin Peller with Wolfe Research. Your line is open.
+
+Darrin Peller -- Wolfe Research -- Analyst
+
+Hey, guys. Look, it's great to hear your confidence around the $1.3 billion of EBITDA in pretty much any macro scenario. But if you could just give us a little bit more color on your assumptions for the base case macro backdrop embedded. And then just on that note, I'd love to know a little more specifically gross profit growth embedded in that base case.
+
+I guess relative to the 20% to 25% rates we're seeing through January into February, if you could just frame it in that way. And then, Jack, just a bigger picture question on the sustainability of Cash App. Obviously, Cash Card was called out quite a bit, and we're seeing a lot of success there. But can you just revisit some of the drivers of sustainability medium term with Cash Card now 25%, 30% of the mix? I think we'd just love to hear more on that.
+
+Thanks, again, guys. 
+
+Amrita Ahuja -- Chief Financial Officer
+
+Hi, Darrin. Thanks for the questions. I'll start off on sort of our 2023 EBITDA guidance and what our assumptions are with respect to growth in that guide. So, first, what I'll share is our 2023 outlook is based on what we've seen so far.
+
+Obviously, exiting 2022 and our Q4 growth rates, but also the early part of this year, which we've shared with you. From a growth perspective, we expect Cash App to grow faster than Square, which is a continuation of Q1 where you've seen consumer trends relatively stable for Cash App versus some moderation in a few discretionary verticals that we believe are macro related for Square. Within Cash App, we expect to see when we think about our inflows framework of active inflows per active which is the amount of money our customers bring into Cash App and then monetization rate, we expect to see continued year-over-year growth across each of those three drivers of the Cash App business during 2023. We do expect to see some gross profit growth to slow in March for Cash App and Q2 onwards as we lap some of the pricing changes that we made last year.
+
+From a Square driver's perspective, our focus, as you've heard so far today, continues to be refining our sales and marketing motion and continuing to grow and take advantage of the success that we've seen in growing upmarket with larger sellers, building out our omnichannel needs. We've seen now software plus integrated payments have become the significant portion of the Square business, 75% of Square's gross profit, ex PPP. And so, continuing to focus on our strategic areas around upmarket, omnichannel, international, and refining our sales and marketing motion for the Square business. From a profitability perspective in 2023 by ecosystem, we are focused on efficiency here.
+
+And as you've heard, we're slowing the pace of growth meaningfully, and we also have the ability and a number of levers at our disposal to be nimble based on what we see from a macro perspective with those levers. Now that said, by ecosystem, we expect Cash App margins to expand, which is a continuation really of some years now of improving profitability for the Cash App business. We expect Square margins to be more consistent year over year, partly due to some of the moderation of growth related to macro impact starting in mid-Q4. And given its already high incremental margins, we outlined those in some great detail during our Investor Day last year.
+
+But as you noted, in the midst of potential macro dynamism, we intend to hold to these profit targets. And if we see growth slow, as I noted, we have a number of levers that we're scrutinizing and have the ability to pull back prudently while still investing for growth against our planned expenses. Just to clarify the second part of your question, Darrin?
+
+Darrin Peller -- Wolfe Research -- Analyst
+
+But it's now, as you guys pointed out, almost 30% of the mix of revenues. And so, what do you think about that business longer term in terms of the driving force of it to keep growing well? What's going to drive that? Thanks, again, guys.
+
+Jack Dorsey -- Chief Executive Officer and Chairman
+
+I'm sorry, you broke up a little bit, Darrin. Are you on mute? Are you talking about Cash App Card or other parts of the banking experience? 
+
+Darrin Peller -- Wolfe Research -- Analyst
+
+I was just trying to figure out gross profit growth sustainability for Cash App in general. What kind of drivers do you see given how strong Cash App Card has already contributed? Does it have a lot more to go? Is it other drivers?
+
+Jack Dorsey -- Chief Executive Officer and Chairman
+
+Yeah. I mean I -- just to start off, Amrita can opine in here as well. But I think the most important thing for us to grow the Cash App ecosystem is to continue to find adjacencies adjacent financial services that complement one another. And there's certainly aspects to everything that we're doing around inflows, direct deposit, all these utilities and functionalities that we're building.
+
+One of them gets people into the ecosystem and drives them in. And then our goal is to really cross-sell and make sure that like we're -- people are able to find the other services quite easily, and there might be one that resonates even more, like Cash App Card. So, I do believe that Cash App Card has a ton of room ahead of it. And I do believe that it's a great marketing device for us, in the same way that the original Square Reader was.
+
+When people see it, whether they see their friends use it or they see pictures over social media of why they designed it, it tends to effectively encourage people to download the app and make their own. In the same way that the Square Reader seen at farmer's markets saw other sellers who quickly was able to recognize what the power of that thing was and then decided to download for themselves. But it's just one part of the equation. And success to us means that it's not just Cash App Card that drives the ecosystem growth, but there's multiple entry vectors that all complement each other and encourage one other contribute to. 
+
+Amrita Ahuja -- Chief Financial Officer
+
+Darrin, I'll just add that Cash App now has five revenue streams at $100 million or more in annualized gross profit. Instant Deposit, obviously, Cash App Card, as you've heard, at $750 million in 2022. Our Bitcoin revenue stream, business accounts, and Cash App Borrow with several others that are smaller, but scaling, like Cash App Pay, as an example, and other banking and commerce products. And even within Cash App Card, we're at about a 36% attach of Cash App Card monthly transacting actives QR overall monthly transacting actives in December.
+
+That's about 18 million actives on Cash App Card on a monthly basis. And we're seeing that Cash App Card is increasingly top of wallet to our customers with a broad use case in terms of everyday payments. But to Jack's point about adjacencies, maybe one recent product launch to call out that's an example of that is our recent launch of peer-to-peer gift cards, where we allow customers to send a gift card from a wide range of merchants to their friends and family who can then receive it and spend it through their Cash App Card. It's an example of a product that, for us, spans multiple development pillars.
+
+There's a community aspect, there's a peer-to-peer elements, and there's a banking aspect that ties in utility of Cash App Card, all while ultimately promoting more commerce within our ecosystem, which is a longer-term focus for us, particularly with Afterpay and our efforts there. So that's an example of an adjacency. There are numerous others like our savings accounts, which we just launched in January and is one of our fastest-growing products, which is yet another reason for people to bring money into Cash App, and you link a debit card and use roundups and a number of other features that end up creating an everyday experience for our customers through Cash App and through our banking offerings.
+
+Darrin Peller -- Wolfe Research -- Analyst
+
+That's really helpful, guys. Thank you very much. 
+
+Operator
+
+Your next question is from the line of Lisa Ellis with SVB MoffettNathanson. Your line is open.
+
+Lisa Ellis -- MoffettNathanson -- Analyst
+
+Hi. Thank you for taking my question. And thanks for all of the detail on Block's investment framework. This shift from the focus on adjusted EBITDA to adjusted operating income is an important one, and I think one that will be welcomed by a lot of investors.
+
+Can you just elaborate a bit more on the why now behind that shift and how it's being operationalized by the BUs? So, for example, should we expect that we would see these noncash items, SBC, D&A, etc., sort of decline or slow in their growth over time with the differential there narrows? Thank you.
+
+Jack Dorsey -- Chief Executive Officer and Chairman
+
+Yeah. Thanks for the question. I'll start off here and Amrita can follow up. But just from a high level, why now? As we talked in our Investor Day, but also a bit in the last quarter, we realized that our business is fairly unique.
+
+We're not -- we started with this one ecosystem called Square. And we've added other ones such as Cash App, TIDAL, and TBD. Two of them are at massive scale. And the other two are just beginning.
+
+And we intend to create new ecosystems, whether that comes from an organic creation like TBD or an acquisition like TIDAL. All these things are also under this purpose of economic empowerment. Like how do we serve entirely new audiences to empower them, give them simple tools to participate more fully in the economy? This is a complex business. It's not like many others that you probably cover.
+
+And the reason we wanted to share this is we wanted a simple way that we could communicate how we think about investing in ourselves and a simple way to help align the interest of our shareholders and you all with those of our customers. So, what was important to us was making sure that we had, first and foremost, a customer-focused metric, and that is gross profit retention, making sure that we are keeping the customers that we bring into the network. And most importantly, we're seeing them buy more and more services within the ecosystem that they started with, such as Square, or going to a completely different ecosystem such as Cash App, and utilizing more and more of our tools and staying with us. And the second, we want to account for real cost of the business.
+
+We've heard from a lot of you, we've heard from a lot of the broader investment community that SBC, the way it's accounted for, it just doesn't make sense. And we listened, we wanted to really see it as true cost and reported as such and hold a bar to ourselves on making sure that we integrate that as a real cost. So, it's much clear and more transparent to you. And then finally, we wanted to use phrases and words and formulas and concepts that you all are familiar with, which is where gross profit retention or an NRR and Rule of 40 really comes from, but do it in a way that raises the bar even more so.
+
+We believe that it's really important to recognize that this is a steady-state goal for us. We're not there today, but it will help us really think about our investments, whether they be at scale ecosystems like Square and Cash App or newer ecosystems like Title and TBD to make sure that we're investing in the right way, that we're customer focused, that we're balancing the investment between all these ecosystems in the correct way, and ultimately, that we're fulfilling our promise of a model of ecosystem of ecosystem, which means that each one of them positively contributes to the other and that we continue to disrupt ourselves with each one of these ecosystems. Like I expect some of our ecosystems like TBD to be disruptive to what we're currently doing within Cash App. And I'm happy that we're thinking about that before external competitors.
+
+And that's exactly the model that we want to continue because ultimately, all this represents resilience. And so, we're just going to use this investment model and make sure that we iterate as quickly as possible to hit it and to keep hitting it. Amrita, do you want to say anything more? 
+
+Amrita Ahuja -- Chief Financial Officer
+
+Yeah, Lisa, thanks for the question. We agree with you that it is a meaningful shift to include stock-based compensation and D&A, but particularly stock-based compensation and our profitability metrics. And what we wanted to do here was align our external disclosures and targets with how we're actually running the business internally. So, to now include SBC as a part of how our leaders are measured and our business units and business models are measured internally is we think the right level playing field across our businesses and across whether it's maturity type or business model.
+
+SBC is an important part of our compensation model here. We want our employees to be shareholders. And ultimately, that structure enables us to attract and retain amazing talent and invest in high-performing teams. So, this shift to adjusted operating income to account for SBC and D&A brings increased rigor to how we manage those costs, those SBC costs.
+
+And we want our teams to consider SBC as an expense when they are hiring and making those investment decisions. Over the long term, we expect to drive efficiencies and leverage from SBC. And historically, our share count dilution, just to get into some of the tactics around what we expect to see. Historically, our share count dilution from SBC has been in the low single-digit percent range, excluding impacts from converts, and we expect this trend to continue of low single-digit dilution for normal run rate across our business.
+
+Lisa Ellis -- MoffettNathanson -- Analyst
+
+Terrific. Thank you. 
+
+Operator
+
+Your next question is from the line of Josh Beck with KBCM. Your line is open.
+
+Josh Beck -- KeyBanc Capital Markets -- Analyst
+
+Thanks for taking the question, and also thanks for collapsing your investment philosophy into one sentence. That's not easy to do for anyone. But I wanted to ask a little bit about Cash App. Amrita, I believe that you said pretty much all of those three core drivers would be up in '23.
+
+The one that I wanted to ask about was the inflows per MAU. You certainly did cite some, at least in the Square business, slowdown in discretionary spend. But I assume there are offsets things like obviously, Cash App Card attach, which I'm assuming is going to lead to higher direct deposit, which obviously had a really nice step up on the metrics you gave at 3Q. So, I'm curious to hear a little bit just about the drivers there, as well as the monetization rate.
+
+Certainly, you mentioned the pricing changes and that's had a sizable impact. But as we look forward, should we be thinking about Borrow as a bigger driver or other items around the monetization side? Thank you.
+
+Amrita Ahuja -- Chief Financial Officer
+
+Sure. Thanks for the question, Josh. So, let's break down our inflows framework for Cash App. And we'll talk in a little bit more detail on one of the three measures, inflows per active, to your question.
+
+So, starting first with actives, 51 million monthly transacting actives in December. That grew 16% year over year, with, importantly, weekly and daily actives growing even faster. Over time, we've increasingly leveraged marketing to enhance the inherent virality in our peer-to-peer network effects, and that's enabled us to drive greater acquisition and product adoption for those new customers. I think what's even maybe more important than the 51 million is that two out of three of those 51 million transacting actives are using Cash App on a weekly basis on average.
+
+And I think that's an indication of the growth of our product ecosystem and the product adoption within it that it's becoming a more and more everyday use case. In terms of inflows per active, we were at $1,048 in the fourth quarter. That's relatively stable on a quarter-over-quarter and year-over-year basis despite lapping a period of government disbursements in the prior period and despite the broader uncertain macro environment. Ultimately, we're encouraged here by the healthy trends that we're seeing in inflows per active.
+
+And as we think about how to grow inflows per active over time, I think there's two key opportunities for us. And the third mix shift dynamic that's worth pointing out. So, first, product adoption. We can drive more inflows through both cross-selling our existing products and the launch of new products.
+
+As we see our customers take on more products within Cash App, that generally leads to greater inflows per actives. We've noted in the past that Cash App Card actives inflow twice the amount of money of peer-to-peer actives. And you see that increase as you move up the funnel into Direct Deposit and other sorts of deeper financial services. We're also increasing the number of inflows channels for the ways in which people can bring money into Cash App, for example, through paper money deposits, and that will continue to be a focus for us to make it easier to bring your money into Cash App and ultimately move it around.
+
+We're also investing more in trust. This is really important for us as well. The team has been prioritizing both increased access, as I noted, as well as the ability to increase limits for customers who are looking to bring more money into Cash App each week. And we ultimately think that will enable us to drive greater share of wallet and expand into broader customer segments.
+
+The third thing to note around inflows per active is that we may see a mix shift dynamic moving forward. Given that we're targeting a younger dynamic with Gen Z and have had success in this target with younger customers, there will be some pressure on inflows per active as these customers are more likely to have lower inflows per active earlier on in their financial journey. But these are also the customers who we expect to be the future spenders over the years to come and ones that we want to be a part of in their early financial journey and have the ability to grow with them over time. Obviously, the third component of our inflows framework is monetization rate.
+
+And monetization rate is a factor of both the ability -- the pricing that we can charge our customers and their mix of usage across our products. We have a number of products that are free. We have some products that we charge for. And as we think about monetization rate, we think of it holistically across the entirety of the ecosystem.
+
+Maybe just the last point I'd make since you asked about Cash Card. We see broad-based utility for Cash App Card. And as I noted earlier, spend per active actually has continued to grow on Cash App Card. And that broad-based utility means that we've been able to -- we see customers using across both discretionary and nondiscretionary use cases, whether it's gas and utilities or it's grocery, that's about a third of the spend on Cash App Card over this past year.
+
+And that enables us to participate wherever our customers are spending in these dynamic times. 
+
+Josh Beck -- KeyBanc Capital Markets -- Analyst
+
+Super helpful. Thank you, Amrita.
+
+Operator
+
+Your next question is from the line of Mike Ng with Goldman Sachs. Your line is open.
+
+Michael Ng -- Goldman Sachs -- Analyst
+
+Hey good, afternoon. Thank you for the question. I just have one housekeeping item and then one follow-up. First, it was helpful to get all the January and February gross profit pacing for Cash App and Seller on a reported basis.
+
+I was just wondering if you'd be able to discuss those pacing figures, excluding Buy Now, Pay Later? And then second, could you just give us an update on the integration of the ecosystems, not only Afterpay across Cash App and Seller, but also things like Cash App Pay on Square Seller? Thank you. 
+
+Amrita Ahuja -- Chief Financial Officer
+
+Thanks for the questions. I'll kick off on our Q1 top-line trends so far. So, what we've seen so far this year, I think there are two sets of numbers to orient you to. There is on an as-reported basis, which is 33% year-over-year growth estimated for Jan and February.
+
+And as we move into March, what we expect to see for the full first quarter is growth, that's a few points below this, of course, as we lapped the acquisition of Afterpay from Q1 of last year. I think the second way to look at overall company gross profit growth so far this year is on a combined company basis, which would then include the $51 million contribution from a gross profit perspective for Afterpay in January of 2022. And when you look at that combined company growth, what we see is overall Block gross profit growth of approximately 25% year over year in January and February, which we expect to be relatively consistent for the full quarter as well and which is an improvement from what we saw in Q4 of 21% year-over-year growth on a combined company basis. Within each of those, Cash App, we expect to grow at more than 50% on an as-reported basis in January and February, albeit March, we expect to see a slower growth rate as we lap the pricing changes.
+
+Really the drivers of Cash App growth are continued strength in active, inflows per active and monetization rate. From a Square perspective, we expect to see gross profit growth of 15% on an as-reported basis in January and February. I think it's important to unpack the numbers further on Square here to see what's going on in the core Square ecosystem, ex BNPL and ex PPP. So, just as a reminder, in Q3, Square, ex PPP, and ex BNPL, grew 19% year over year.
+
+We saw some softening in discretionary verticals in Q4. And so, that same rate of growth for the same Square, ex PPP and ex BNPL, was 17% in Q4. And now we're seeing growth for Square, ex PPP, ex BNPL, in January and February of 21%. So, those are some of the puts and takes that we see across the Square ecosystem so far this year. 
+
+Jack Dorsey -- Chief Executive Officer and Chairman
+
+And then in terms of the ecosystem integrations, the No. 1 we're focused on, obviously, is Afteray, and this is the connection between Square and Cash App. We're still early in the product integration, but the place to look is obviously going to be in Cash App in the Discover Tab in the marketplace. We believe that we started -- we're pretty early in just what this area will do.
+
+Right now, it looks like a fairly simple search. And I think the UI is a little bit off. But we're going to continue to iterate as quickly as possible to make sure that we meet the opportunity, which is pretty massive for us. We see a lot of opportunity not just there, but what you mentioned with Cash App Pay.
+
+We're starting more with some Afterpay merchants. So, customers can browse and finance and discount offers at merchants who accept Cash App Pay. And then we'll continue to move more and more toward the Square ecosystem. But I would say that with integration, the acquisition and putting the companies together, we're in a much better position.
+
+Now we're really focused on the product and how these two things to come together. And I think there's a lot more integrations to come between other ecosystems, namely TBD and a bunch of what we're trying to do with Cash App globally, and then also TIDAL as well for artists and musicians and making sure that they have what they need to continue to build up their careers in the same way that we've served sellers as well. 
+
+Operator
+
+[Operator signoff]
+
+Call participants:
+Nikhil Dixit -- Head of Investor Relations
+
+Jack Dorsey -- Chief Executive Officer and Chairman
+
+Amrita Ahuja -- Chief Financial Officer
+
+Tien-Tsin Huang -- JPMorgan Chase and Company -- Analyst
+
+Timothy Chiodo -- Credit Suisse -- Analyst
+
+Darrin Peller -- Wolfe Research -- Analyst
+
+Lisa Ellis -- MoffettNathanson -- Analyst
+
+Josh Beck -- KeyBanc Capital Markets -- Analyst
+
+Michael Ng -- Goldman Sachs -- Analyst
