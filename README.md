@@ -1,0 +1,3 @@
+# earnings-call-sentiment-app
+
+This Flask app allows users to input an earnings call transcript and receive a sentiment score using the VADER (Valence Aware Dictionary and sEntiment Reasoner) model. Additionally, the app highlights specific lines from the transcript that are tagged as positive or negative to derive the sentiment score. The app uses the NLTK Python library and focuses on forward-looking sentences containing keywords such as "forecast", "potential", and "next year". This app could be helpful for those who want to quickly analyze the sentiment of an earnings call and identify the most positive or negative statements made by company executives.
